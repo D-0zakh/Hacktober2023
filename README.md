@@ -1,3 +1,3 @@
 # Hacktober2023
 
-Made by Pranava M
+Made by Pranav M
